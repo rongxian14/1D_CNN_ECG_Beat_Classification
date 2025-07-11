@@ -35,10 +35,11 @@ The `experiments_done` folder contains all major experiments conducted during th
 ## 🧠 Model Architecture
 
 The **CNN model** used for classification consists of:
-- 4 Convolutional layers  
-- 4 MaxPooling layers  
-- 2 Fully Connected layers  
-- 1 Output layer
+- 3 Convolutional layers
+- 3 MaxPooling layers
+- 1 Flatten layer
+- 1 Fully Connected layers
+- 1 Output layer with softmax activation
 
 Both CNN and DNN models were evaluated using **Stratified 5-Fold Cross-Validation** to ensure class distribution was preserved across folds.
 
@@ -51,7 +52,7 @@ Below is a performance comparison of the **final selected experiments** (A, B, C
 | Dataset  | Resampling Strategy | Accuracy (%) | Precision (%) | Recall (%) | F1 Score (%) |
 |----------|---------------------|--------------|----------------|-------------|---------------|
 | A        | SMOTE + RU          | 98.98        | 98.98         | 98.98      | 98.98         |
-| B        | SMOTE + GAN         | **99.35**    | **99.42**     | 99.25      | **99.33**     |
+| B        | SMOTE + GAN         | **99.35**    | **99.42**     | **99.25**      | **99.33**     |
 | C        | GAN only            | 99.13        | 99.42         | 98.75      | 99.08         |
 
 > 📌 *Full experimental results for all 3 strategies are provided in the `chosen_sets` folder.*
