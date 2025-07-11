@@ -78,7 +78,7 @@ Class of 2025
 ## 📩 Contact
 
 - 📧 Email: [leexian@graduate.utm.my]
-- 🌐 LinkedIn: []
+- 🌐 LinkedIn: [linkedin.com/in/lee-r-a6760428a]
 
 ---
 
