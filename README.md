@@ -25,10 +25,10 @@ The `experiments_done` folder contains all major experiments conducted during th
 4. **SMOTE** – Synthetic Minority Over-sampling Technique to balance class distribution.
 
 ### 🔹 Data Synthesis and Hybrid Methods
-5. **GAN** – Generative Adversarial Network trained to generate synthetic ECG beats.
+5. **GAN** – Generative Adversarial Network trained to generate synthetic ECG beats for a selectively balanced dataset.
 6. **SMOTE + RU** – Combined strategy to over- and under-sample for a fully balanced dataset.
-7. **SMOTE + GAN** – Uses SMOTE first, followed by realistic synthetic data from GAN.
-8. **Bootstrap + GAN** – Uses bootstrapped sampling before applying GAN-based augmentation.
+7. **SMOTE + GAN** – Uses SMOTE first, followed by realistic synthetic data from GAN for a selectively balanced dataset.
+8. **Bootstrap + GAN** – Uses bootstrapped sampling before applying GAN-based augmentation for a selectively balanced dataset.
 > 📌 *Full experimental results for all 8 strategies are provided in the `experiments_done` folder.*
 ---
 
