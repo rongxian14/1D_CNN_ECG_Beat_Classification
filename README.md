@@ -38,7 +38,7 @@ The **CNN model** used for classification consists of:
 - 3 Convolutional layers
 - 3 MaxPooling layers
 - 1 Flatten layer
-- 1 Fully Connected layers
+- 1 Fully Connected layer
 - 1 Output layer with softmax activation
 
 Both CNN and DNN models were evaluated using **Stratified 5-Fold Cross-Validation** to ensure class distribution was preserved across folds.
