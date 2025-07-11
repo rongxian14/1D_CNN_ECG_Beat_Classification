@@ -61,18 +61,12 @@ Below is a performance comparison of the **final selected experiments** (A, B, C
 
 ## 🧾 Summary
 
+- CNN outperformed DNN in almost all setups, especially in highly imbalanced conditions.
 - The hybrid **SMOTE + GAN approach (Dataset B)** achieved the best overall performance.
 - **GAN** generated data improved both realism and diversity in minority beat classes.
-- CNN outperformed DNN in almost all setups, especially in highly imbalanced conditions.
+- **Oversampling** performed over **Undersampling**.
+- **Selective-balanced strategy** perform over **fully-balanced strategy**.
 - Comprehensive resampling and augmentation strategies yielded consistently high metrics (Accuracy, F1 > 98%).
-
----
-
-## 👩‍💻 Author
-
-**Lee Rong Xian**  
-Bachelor of Computer Science (Bioinformatics), Universiti Teknologi Malaysia  
-Class of 2025
 
 ---
 
