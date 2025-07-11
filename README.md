@@ -29,7 +29,7 @@ The `experiments_done` folder contains all major experiments conducted during th
 6. **SMOTE + RU** – Combined strategy to over- and under-sample for a fully balanced dataset.
 7. **SMOTE + GAN** – Uses SMOTE first, followed by realistic synthetic data from GAN.
 8. **Bootstrap + GAN** – Uses bootstrapped sampling before applying GAN-based augmentation.
-
+> 📌 *Full experimental results for all 8 strategies are provided in the `experiments_done` folder.*
 ---
 
 ## 🧠 Model Architecture
@@ -54,7 +54,7 @@ Below is a performance comparison of the **final selected experiments** (A, B, C
 | B        | SMOTE + GAN         | **99.35**    | **99.42**     | 99.25      | **99.33**     |
 | C        | GAN only            | 99.13        | 99.42         | 98.75      | 99.08         |
 
-> 📌 *Full experimental results for all 8 strategies are provided in the `experiments_done` folder.*
+> 📌 *Full experimental results for all 3 strategies are provided in the `chosen_sets` folder.*
 
 ---
 
@@ -77,8 +77,8 @@ Class of 2025
 
 ## 📩 Contact
 
-- 📧 Email: [your-email@example.com]
-- 🌐 LinkedIn: [Your LinkedIn URL]
+- 📧 Email: [leexian@graduate.utm.my]
+- 🌐 LinkedIn: []
 
 ---
 
