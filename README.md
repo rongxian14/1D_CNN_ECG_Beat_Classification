@@ -73,7 +73,7 @@ Below is a performance comparison of the **final selected experiments** (A, B, C
 ## 📩 Contact
 
 - 📧 Email: [leexian@graduate.utm.my]
-- 🌐 LinkedIn: [linkedin.com/in/lee-r-a6760428a]
+- 🌐 LinkedIn: [linkedin.com/in/lee-r-a6760428a](https://www.linkedin.com/in/lee-r-a6760428a/)
 
 ---
 
